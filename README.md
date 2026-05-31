@@ -4,11 +4,11 @@ A system-wide voice dictation utility for Wayland.
 
 ## Showcase
 
-<div align="center">
 
-![Showcase Video](media/showcase.mp4)
 
-</div>
+https://github.com/user-attachments/assets/874a2a4b-cc15-45ef-be31-c40cadcb15ec
+
+
 
 ## Dependencies
 
