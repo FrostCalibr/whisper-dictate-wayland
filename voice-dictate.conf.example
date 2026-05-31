@@ -1,0 +1,8 @@
+# Configuration template for voice-dictate.sh
+# Copy this file to voice-dictate.conf and fill in your details.
+
+# Set API provider to "groq" or "openai"
+API_PROVIDER="groq"
+
+# Set your API key below or set it as an environment variable (GROQ_API_KEY / OPENAI_API_KEY)
+API_KEY=""

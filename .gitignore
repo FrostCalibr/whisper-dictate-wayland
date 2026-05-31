@@ -1,0 +1,7 @@
+# Local configuration and API keys
+voice-dictate.conf
+*.conf
+!voice-dictate.conf.example
+
+# Temporary visualizer configs
+cava-dictate.conf
