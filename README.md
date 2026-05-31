@@ -6,7 +6,7 @@ A system-wide voice dictation utility for Wayland.
 
 <div align="center">
 
-https://github.com/frostcalibr/whisper-dictate-wayland/blob/master/media/showcase.mp4
+![Showcase Video](media/showcase.mp4)
 
 </div>
 
