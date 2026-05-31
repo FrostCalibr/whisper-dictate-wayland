@@ -1,6 +1,10 @@
 # whisper-dictate-wayland
 
-A system-wide voice dictation utility for Wayland
+A system-wide voice dictation utility for Wayland.
+
+## Showcase
+
+<video src="media/showcase.mp4" width="100%" controls></video>
 
 ## Dependencies
 
