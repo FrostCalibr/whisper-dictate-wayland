@@ -39,8 +39,9 @@ Before installing, ensure the following utilities are available on your system:
    ```
 
 4.1. For groq
-``go to `https://console.groq.com/` and create an API. 
-    It is Free. Read the rate limits in their website. but it won't run out even if you spek for hours(single person atleast)``
+
+    go to `https://console.groq.com/` and create an API. 
+    It is Free. Read the rate limits in their website. but it won't run out even if you spek for hours(single person atleast)
 
 ## Keybindings Integration (Hyprland Example)
 
