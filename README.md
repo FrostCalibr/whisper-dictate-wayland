@@ -18,7 +18,7 @@ Before installing, ensure the following utilities are available on your system:
 
 1. Clone this repository to your system:
    ```bash
-   git clone https://github.com/YOUR_USERNAME/whisper-dictate-wayland.git
+   git clone https://github.com/frostcalibr/whisper-dictate-wayland.git
    cd whisper-dictate-wayland
    ```
 
