@@ -2,21 +2,6 @@
 
 A system-wide voice dictation utility for Wayland
 
-## Features
-
-- **Whisper Integration**: Transcribes speech using OpenAI's or Groq's Whisper
-  API.
-- **Glassmorphic HUD Overlay**: A beautiful, non-intrusive bottom-docked status
-  indicator powered by Quickshell.
-- **Real-Time Visualizer**: Integrates directly with CAVA to show a responsive
-  frequency waveform of your microphone stream.
-- **Apple-Style Animation Physics**: Smooth elastic container scaling, fading,
-  transcribing loader animations, and snappy completion/error states.
-- **Mute Safety Check**: Detects if your default microphone source is muted and
-  displays a visual warning status.
-- **Auto-Paste**: Copies the final transcription to your system clipboard and
-  auto-pastes it directly into your active cursor.
-
 ## Dependencies
 
 Before installing, ensure the following utilities are available on your system:
