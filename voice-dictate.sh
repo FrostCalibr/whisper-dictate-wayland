@@ -79,8 +79,9 @@ if [ -f "$LOCK_FILE" ]; then
         exit 1
     fi
     
-    # Copy text to clipboard and simulate key insertion
+    # Copy text to both clipboard and primary selection to support terminal pasting
     echo -n "$transcription" | wl-copy
+    echo -n "$transcription" | wl-copy -p
     wtype -M shift -k Insert
     
     # Signal success to the overlay HUD
