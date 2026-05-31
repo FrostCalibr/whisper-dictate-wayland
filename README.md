@@ -4,9 +4,11 @@ A system-wide voice dictation utility for Wayland.
 
 ## Showcase
 
-[![Showcase Video](https://img.shields.io/badge/Play-Showcase%20Video-blue?style=for-the-badge&logo=git)](https://github.com/frostcalibr/whisper-dictate-wayland/blob/master/media/showcase.mp4)
+<div align="center">
 
-<video src="https://raw.githubusercontent.com/frostcalibr/whisper-dictate-wayland/master/media/showcase.mp4" width="100%" controls></video>
+https://github.com/frostcalibr/whisper-dictate-wayland/blob/master/media/showcase.mp4
+
+</div>
 
 ## Dependencies
 
